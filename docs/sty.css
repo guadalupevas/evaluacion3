@@ -1,0 +1,34 @@
+.form {
+    box-sizing: content-box;
+    border: 2px solid blue;
+    background-color: beige;
+    width: 50%;
+    min-width: 284px;
+    margin: 0 auto;
+    padding: 8px;
+    color: rgb(102, 114, 162);
+    font-family: 'Gentium Book Plus', serif;
+    line-height: 30px;
+}
+style
+        .back {
+            width: 20px;
+        }
+style
+h1 {
+    color: blue;
+    text-shadow: 0.1em 0.1em 0.2em black; 
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+td {
+    color: rgb(16, 10, 10); 
+}
+
+.buttons {
+    border: 2px solid rgb(30, 24, 24);
+    min-width: 180px;
+    width: 180px;
+    padding: 5px;
+}
